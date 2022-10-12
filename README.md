@@ -27,8 +27,7 @@ Wanna be a Data scientist!✌
 </p>
 <hr>
 
-![serin's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinlin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinlin&layout=compact&theme=tokyonight)
+![serin's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinlin&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinlin&layout=compact&theme=tokyonight)
 
 
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjdoro627)](https://solved.ac/kjdoro627)
