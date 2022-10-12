@@ -2,9 +2,7 @@
 Hi, I'm Serin!👋
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=srinlin&label=Profile%20Views&color=0e75b6&style=fla">
-</div>
-<div align=center>
+  <img src="https://komarev.com/ghpvc/?username=srinlin&label=Profile%20Views&color=EB70B0&style=fla">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsrinlin&count_bg=%233D81C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </div>
 </h1>
@@ -30,5 +28,5 @@ Wanna be a Data scientist!✌
 <hr>
 
 ![serin's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinlin&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinlin&layout=compact&theme=tokyonight)
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjdoro627)](https://solved.ac/kjdoro627)
