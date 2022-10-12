@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="center">
+Hi, I'm Serin!👋
 
-<!--
-**srinlin/srinlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsrinlin&count_bg=%233D81C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
+</h1>
+  
+Wanna be a Data scientist!✌
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Datascience
+- 📫 How to reach me: ymj6090@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+💻 BLOG : [MYBLOG!](https://letslovelovelove.tistory.com/)
+<hr>
+<p>
+
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+</p>
+<hr>
+
+![serin's GitHub stats](https://github-readme-stats.vercel.app/api?username=srinlin&show_icons=true&theme=tokyonight)
+
+[![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjdoro627)](https://solved.ac/kjdoro627)
