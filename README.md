@@ -9,12 +9,12 @@ Hi, I'm Serin!👋
   
 Wanna be a Data scientist!✌
 
-- 🌱 I’m currently learning Datascience
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me: ymj6090@gmail.com
 
 <hr>
 
-💻 BLOG : [MYBLOG!](https://letslovelovelove.tistory.com/)
+💻[MYBLOG](https://letslovelovelove.tistory.com/)
 <hr>
 <p align="center">
 
