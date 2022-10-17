@@ -14,7 +14,7 @@ Wanna be a Data scientist!✌
 
 <hr>
 
-💻[MYBLOG](https://letslovelovelove.tistory.com/)
+💻 [BLOG](https://letslovelovelove.tistory.com/)
 <hr>
 <p align="center">
 
