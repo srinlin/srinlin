@@ -11,7 +11,7 @@ Wanna be a Data scientist!✌
 
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me: ymj6090@gmail.com
-- 💻: [MY BLOG](https://letslovelovelove.tistory.com/)
+- 💻 [MY BLOG](https://letslovelovelove.tistory.com/)
 
 <p align="center">
 
